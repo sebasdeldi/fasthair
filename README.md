@@ -1,6 +1,3 @@
-I have updated your README to include the **Test Suite** section. This provides clear instructions for anyone using your project to verify the API immediately after deployment using your `aligned_test_api.py` script.
-
----
 
 # HairFastGAN Standalone Modal API
 
